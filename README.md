@@ -1,16 +1,58 @@
-### Hi there 👋
+# Morgan Thibert
 
-<!--
-**o0morgan0o/o0morgan0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Développement web · Automatisation · Creative coding
 
-Here are some ideas to get you started:
+Je développe des applications, des outils et des objets interactifs : du logiciel métier avec Odoo aux interfaces web, jusqu'aux projets qui font dialoguer le code, le dessin et la musique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Développeur & consultant Odoo indépendant, basé près de Reims.** J'accompagne les PME dans l'adaptation de leur ERP : modules spécifiques, intégrations, migrations et automatisation des processus.
+
+[Site & activité professionnelle](https://morgan-thibert.com) · [Me contacter](mailto:morgan.thibert@gmail.com) · [Tous mes dépôts](https://github.com/o0morgan0o?tab=repositories)
+
+---
+
+## Quelques projets à explorer
+
+### 🎚️ [YouTube · Vu-mètre](https://github.com/o0morgan0o/youtube-vu-metre)
+
+Une extension Chrome qui affiche les niveaux audio stéréo d'une vidéo ou d'un live, même lorsque le lecteur est en sourdine. Analyse locale du signal, interface intégrée au lecteur et tests automatisés dans Chromium.
+
+`JavaScript` `Web Audio API` `Chrome Extensions` · **Intégration navigateur & traitement audio**
+
+### ✏️ [Gcode Generative for Processing](https://github.com/o0morgan0o/gcode-generative-for-processing)
+
+Une bibliothèque pour transformer des dessins génératifs en instructions G-code et utiliser une imprimante 3D comme traceur. Courbes de Bézier, remplissage de formes, exemples de dessins et fichiers de supports imprimables accompagnent le code.
+
+`Java` `Processing` `G-code` · **Géométrie & fabrication numérique**
+
+Dans la même démarche : [Export SVG to G-code](https://github.com/o0morgan0o/exportSVGtoGCODE), un outil en ligne de commande Node.js adapté du script Illustrator de Diego Monzon pour automatiser la conversion de dessins vectoriels.
+
+### 🎹 [BeAPad](https://github.com/o0morgan0o/BeAPad_Leds)
+
+Un contrôleur associant surfaces tactiles, éclairage LED et messages MIDI sur Wi-Fi. Le dépôt réunit le firmware ESP32, des tests C++ avec doublures matérielles, les schémas électroniques et les fichiers de circuits imprimés.
+
+`C++` `ESP32` `PlatformIO` `RTP-MIDI` · **Logiciel embarqué & prototypage électronique**
+
+### 🔢 [Cistercian Numbers](https://github.com/o0morgan0o/CistercianNumbers)
+
+Un convertisseur interactif de nombres décimaux en symboles cisterciens, à la croisée de la programmation visuelle et de la typographie.
+
+`JavaScript` `p5.js` · **Algorithmes & visualisation** · [Essayer la démo](https://o0morgan0o.github.io/CistercianNumbers/)
+
+## Web, infrastructure et pédagogie
+
+Mes dépôts comprennent aussi des supports pédagogiques autour du développement et du déploiement :
+
+- **[Chuck Citations — front](https://github.com/o0morgan0o/chuck-citations-front) / [API](https://github.com/o0morgan0o/chuck-citations-api)** : une application React et TypeScript reliée à une API Express et PostgreSQL, avec des configurations Docker de build et de test côté front.
+- **[Art Explorer](https://github.com/o0morgan0o/art-explorer)** : une application Flask de découverte des collections de l'Art Institute of Chicago, avec recherche, pagination et tests pytest, utilisée comme support d'exercice sur les conteneurs et le DevOps.
+
+## Mes terrains de travail
+
+| Domaine | Technologies et outils |
+| --- | --- |
+| Applications métier & web | Odoo, Python, PostgreSQL, JavaScript / TypeScript, React, Flask, Node.js |
+| Automatisation & systèmes | Linux, Shell, PowerShell, Docker |
+| Création & hardware | Processing, Java, C++, ESP32, Arduino, Raspberry Pi, MIDI |
+
+Le fil conducteur de ces projets : partir d'un besoin concret, comprendre les contraintes et construire un outil utilisable — à l'écran comme dans le monde physique.
+
+**Une opportunité, une mission ou un projet à discuter ?** [Échangeons.](mailto:morgan.thibert@gmail.com)
