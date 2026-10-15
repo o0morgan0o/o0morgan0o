@@ -12,12 +12,6 @@ Je développe des applications, des outils et des objets interactifs : du logici
 
 ## Quelques projets à explorer
 
-### 🎚️ [YouTube · Vu-mètre](https://github.com/o0morgan0o/youtube-vu-metre)
-
-Une extension Chrome qui affiche les niveaux audio stéréo d'une vidéo ou d'un live, même lorsque le lecteur est en sourdine. Analyse locale du signal, interface intégrée au lecteur et tests automatisés dans Chromium.
-
-`JavaScript` `Web Audio API` `Chrome Extensions` · **Intégration navigateur & traitement audio**
-
 ### ✏️ [Gcode Generative for Processing](https://github.com/o0morgan0o/gcode-generative-for-processing)
 
 Une bibliothèque pour transformer des dessins génératifs en instructions G-code et utiliser une imprimante 3D comme traceur. Courbes de Bézier, remplissage de formes, exemples de dessins et fichiers de supports imprimables accompagnent le code.
