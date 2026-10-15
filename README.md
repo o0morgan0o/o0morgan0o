@@ -38,13 +38,6 @@ Un convertisseur interactif de nombres décimaux en symboles cisterciens, à la 
 
 `JavaScript` `p5.js` · **Algorithmes & visualisation** · [Essayer la démo](https://o0morgan0o.github.io/CistercianNumbers/)
 
-## Web, infrastructure et pédagogie
-
-Mes dépôts comprennent aussi des supports pédagogiques autour du développement et du déploiement :
-
-- **[Chuck Citations — front](https://github.com/o0morgan0o/chuck-citations-front) / [API](https://github.com/o0morgan0o/chuck-citations-api)** : une application React et TypeScript reliée à une API Express et PostgreSQL, avec des configurations Docker de build et de test côté front.
-- **[Art Explorer](https://github.com/o0morgan0o/art-explorer)** : une application Flask de découverte des collections de l'Art Institute of Chicago, avec recherche, pagination et tests pytest, utilisée comme support d'exercice sur les conteneurs et le DevOps.
-
 ## Mes terrains de travail
 
 | Domaine | Technologies et outils |
